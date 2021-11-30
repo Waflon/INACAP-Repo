@@ -1,0 +1,30 @@
+[
+    {
+        "rut":"15333223-6",
+        "nombre":"Diego Villalobos",
+        "direccion":"Larrain 6775",
+        "fechaNacimiento":"22-01-1995",
+        "fechaIngreso":"01-03-2004"
+    },
+    {
+        "rut":"15333234-9",
+        "nombre":"Juan Peña",
+        "direccion":"Departamental 2775",
+        "fechaNacimiento":"22-01-1994",
+        "fechaIngreso":"01-03-2004"
+    },
+    {
+        "rut":"17552365-6",
+        "nombre":"Marcelo Muñoz",
+        "direccion":"Pocuro 1775",
+        "fechaNacimiento":"22-01-1995",
+        "fechaIngreso":"01-03-2004"
+    },
+    {
+        "rut":"19855777-6",
+        "nombre":"Ernesto Vasquez",
+        "direccion":"Tobalaba 6775",
+        "fechaNacimiento":"01-10-2004",
+        "fechaIngreso":"01-03-2004"
+    }
+]
