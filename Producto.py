@@ -37,3 +37,9 @@ class Producto:
             self.stock = stock
         else:
             raise Exception("El stock no puede ser menor a 0")
+
+    def mostrarDatos(self):
+        print(self.nombre)
+        print(self.desc)
+        print(self.valor)
+        print(self.stock)
